@@ -1,16 +1,13 @@
-### Hi there 👋
+# Gday!
+I'm Jakob, I do tech things in Adelaide, South Australia.
 
-<!--
-**JakobTheDev/JakobTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to spend my time hacking, coding and writing mostly about web application security.
 
-Here are some ideas to get you started:
+## You can find me on:
+- 📝 Medium: [@JakobTheDev](https://medium.com/@JakobTheDev)
+- 🐤 Twitter: [@JakobTheDev](https://twitter.com/JakobTheDev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I do:
+- 🐱‍👤 Co-organiser of [@Sectalks_ADL](https://twitter.com/sectalks_ADL)
+- 👨‍💻 Co-organiser of [@heapsgooddev](https://twitter.com/heapsgooddev)
+- 🔐 Application Security Specialist at [@TaptuIT](https://twitter.com/TaptuIT)
